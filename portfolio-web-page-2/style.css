@@ -9,6 +9,11 @@ header {
   text-align: center;
 }
 
+/* visited link */
+a:visited {
+  color: #783F8E;
+}
+
 hr {
   width: 50%;
   height: 2px;
@@ -79,7 +84,7 @@ footer {
   text-align: center;
 }
 footer span {
-  color: #fff;
+  color: #292f36;
   text-align: center;
   padding: 20px;
 }
