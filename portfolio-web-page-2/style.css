@@ -8,10 +8,24 @@ header {
   background-color: #91a6ff;
   text-align: center;
 }
+/* unvisited link */
+a:link {
+  color: red;
+}
 
 /* visited link */
 a:visited {
-  color: #783F8E;
+  color: #783F8E;;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
 }
 
 hr {
